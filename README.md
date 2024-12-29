@@ -37,4 +37,4 @@ This project explores the classification of arrhythmias using advanced machine l
 - **Data Processing:** `WFDB`, `NumPy`, `Pandas`, `SciPy`
 - **Visualization:** `Matplotlib`, `Seaborn`
 - **Machine Learning:** `Scikit-learn`, `XGBoost`
-
+### ⭐️ **If you find this repository useful, give it a star!**
